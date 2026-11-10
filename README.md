@@ -1,4 +1,14 @@
-# OmPick4e
+# OmPick4es
+
+## О проекте
+
+Тестовое задание по iOS-разработке, 2021 год: изображения и избранное. Swift, UIKit, RxSwift/RxCocoa, Alamofire и Realm.
+
+Код для просмотра: `OmPick4e/Modules/`, `OmPick4e/Services/PicturesService.swift`, `OmPick4e/Services/RealmService.swift`.
+
+Это исторический пример iOS/Android-кода. Основное текущее направление — Flutter / Dart; актуальный открытый Flutter-проект — [Objectno](https://github.com/nskomega/Objectno).
+
+## Исходные материалы
 
 Используемые бибилиотеки: 
 
